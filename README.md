@@ -2,5 +2,12 @@
 
 a library management system created using
  -  nodejs
- - msql
- 
+ - msq
+ - express
+ - axios
+ - cors
+
+future release `will include`:
+    - `tailwind css`
+    - ....loading
+    

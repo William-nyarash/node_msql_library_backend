@@ -1,2 +1,6 @@
-# backupLinuxData
-backup data incase of loss or factory reset
+# working with nodejs and mysql 
+
+a library management system created using
+ -  nodejs
+ - msql
+ 
